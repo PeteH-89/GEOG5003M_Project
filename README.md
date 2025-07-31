@@ -58,4 +58,8 @@ BBC News, 2021. Elections 2021 in Northamptonshire: Votes to replace country's '
 
 Institute for Fiscal Studies. 2024. How have English councils’ funding and spending changed? 2010 to 2024. [Online]. [Accessed 29 July 2025]. Available from: https://ifs.org.uk/publications/how-have-english-councils-funding-and-spending-changed-2010-2024
 
+**AI Use**
+
+For example: “I acknowledge the use of ChatGPT-4.0 as a guide to potential functions that could be used to perform analysis and visualisation, it was used to suggest these and then the documentation for those functions was used. 
+
 
